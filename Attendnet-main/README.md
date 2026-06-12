@@ -83,8 +83,6 @@ Remote accessibility
 Zero local installation requirement
 Easy updates and maintenance
 
-🔗 Access the system:
-https://reddythrived-attendnet.hf.space
 
 🔮 Future Scope
 Integration with mobile platforms
@@ -94,5 +92,5 @@ Real-time analytics dashboard
 Upgrade to advanced models like FaceNet or DeepFace
 👨‍💻 Author
 
-K.P. Thrived Reddy
+M.SAINATH REDDY
 B.Tech – Artificial Intelligence & Machine Learning
